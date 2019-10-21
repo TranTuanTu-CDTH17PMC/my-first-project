@@ -1,0 +1,7 @@
+D:\LTWeb\Buoi 6\DAO\bin\Debug\DAO.dll
+D:\LTWeb\Buoi 6\DAO\bin\Debug\DAO.pdb
+D:\LTWeb\Buoi 6\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\LTWeb\Buoi 6\DAO\obj\Debug\DAO.dll
+D:\LTWeb\Buoi 6\DAO\obj\Debug\DAO.pdb
+D:\LTWeb\Buoi 6\DAO\bin\Debug\TAIKHOAN_DTO.dll
+D:\LTWeb\Buoi 6\DAO\bin\Debug\TAIKHOAN_DTO.pdb

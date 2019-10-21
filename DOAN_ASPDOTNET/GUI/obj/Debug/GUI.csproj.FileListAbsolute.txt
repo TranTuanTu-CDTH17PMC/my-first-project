@@ -1,0 +1,12 @@
+D:\LTWeb\Buoi 6\GUI\bin\GUI.dll.config
+D:\LTWeb\Buoi 6\GUI\bin\GUI.dll
+D:\LTWeb\Buoi 6\GUI\bin\GUI.pdb
+D:\LTWeb\Buoi 6\GUI\bin\BUS.dll
+D:\LTWeb\Buoi 6\GUI\bin\DAO.dll
+D:\LTWeb\Buoi 6\GUI\bin\BUS.pdb
+D:\LTWeb\Buoi 6\GUI\bin\DAO.pdb
+D:\LTWeb\Buoi 6\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\LTWeb\Buoi 6\GUI\obj\Debug\GUI.dll
+D:\LTWeb\Buoi 6\GUI\obj\Debug\GUI.pdb
+D:\LTWeb\Buoi 6\GUI\bin\TAIKHOAN_DTO.dll
+D:\LTWeb\Buoi 6\GUI\bin\TAIKHOAN_DTO.pdb

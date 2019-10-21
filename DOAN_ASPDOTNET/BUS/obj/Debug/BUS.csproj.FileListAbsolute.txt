@@ -1,0 +1,9 @@
+D:\LTWeb\Buoi 6\BUS\bin\Debug\BUS.dll
+D:\LTWeb\Buoi 6\BUS\bin\Debug\BUS.pdb
+D:\LTWeb\Buoi 6\BUS\bin\Debug\DAO.dll
+D:\LTWeb\Buoi 6\BUS\bin\Debug\DAO.pdb
+D:\LTWeb\Buoi 6\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\LTWeb\Buoi 6\BUS\obj\Debug\BUS.dll
+D:\LTWeb\Buoi 6\BUS\obj\Debug\BUS.pdb
+D:\LTWeb\Buoi 6\BUS\bin\Debug\TAIKHOAN_DTO.dll
+D:\LTWeb\Buoi 6\BUS\bin\Debug\TAIKHOAN_DTO.pdb
